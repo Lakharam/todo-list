@@ -24,7 +24,7 @@ This project is built using the following technologies:
 
 ## 🌍 How It Looks
 
-You can check out the live version of the app here: [Todo List App](https://lakharam.github.io/todo-list/)
+You can check out the live version of the app here: [Live](https://lakharam.github.io/todo-list/)
 
 ## 🛠️ How to Use
 
@@ -34,16 +34,19 @@ You can check out the live version of the app here: [Todo List App](https://lakh
 
 ## 📸 Screenshots
 
-<!-- ### Main Interface
+### Main Interface
 
-![Main Interface](images/screenshot1.png)
+![Main Interface](![image](https://github.com/user-attachments/assets/bb6fddfb-acd4-4624-9642-38c9dddbaca9)
+)
 
 ### Adding a Task
 
-![Adding a Task](images/screenshot2.png)
+![Adding a Task](![image](https://github.com/user-attachments/assets/a857c5f5-32bd-45ee-a8f4-a06771d50288)
+)
 
 ### Task List with Completed Tasks
 
-![Task List with Completed Tasks](images/screenshot3.png)
+![Task List with Completed Tasks](![image](https://github.com/user-attachments/assets/fdb46148-2441-4350-9b3c-621affecaa31)
+)
 
-## 🚀 Getting Started
+## 🚀 Accomplished!!!
