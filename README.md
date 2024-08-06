@@ -36,7 +36,7 @@ You can check out the live version of the app here: [Live Demo](https://lakharam
 
 ### Main Interface
 
-[image](https://github.com/user-attachments/assets/bb6fddfb-acd4-4624-9642-38c9dddbaca9)
+![image](https://github.com/user-attachments/assets/bb6fddfb-acd4-4624-9642-38c9dddbaca9)
 
 ### Adding a Task
 
@@ -45,7 +45,7 @@ You can check out the live version of the app here: [Live Demo](https://lakharam
 
 ### Task List with Completed Tasks
 
-![Task List with Completed Tasks](![image](https://github.com/user-attachments/assets/fdb46148-2441-4350-9b3c-621affecaa31)
+![image](https://github.com/user-attachments/assets/fdb46148-2441-4350-9b3c-621affecaa31)
 
 
 ## 🚀 Accomplished!!!
