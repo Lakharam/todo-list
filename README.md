@@ -12,7 +12,7 @@ The Todo List App is designed to help you stay organized by allowing you to add,
 - **Persistent Storage:** Tasks are saved in your browser's local storage, so they won't disappear even if you close the app.
 - **Mark as Done:** Click on a task to mark it as completed, with a satisfying strikethrough effect.
 - **Delete Tasks:** Remove tasks that are no longer needed with a simple click.
-- **Responsive Design:** The app is fully responsive and works seamlessly on both desktop and mobile devices.
+
 
 ## ⚡ Technologies
 
