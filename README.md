@@ -40,7 +40,7 @@ You can check out the live version of the app here: [Live Demo](https://lakharam
 
 ### Adding a Task
 
-![Adding a Task](![image](https://github.com/user-attachments/assets/a857c5f5-32bd-45ee-a8f4-a06771d50288)
+![image](https://github.com/user-attachments/assets/a857c5f5-32bd-45ee-a8f4-a06771d50288)
 
 
 ### Task List with Completed Tasks
