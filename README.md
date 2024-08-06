@@ -24,7 +24,7 @@ This project is built using the following technologies:
 
 ## 🌍 How It Looks
 
-You can check out the live version of the app here: [Live Demo](https://lakharam.github.io/todo-list/).
+You can check out the live version of the app here: [Live Demo](https://lakharam.github.io/todo-list/)
 
 ## 🛠️ How to Use
 
